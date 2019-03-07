@@ -1,0 +1,6 @@
+C:\Users\1148527\Desktop\exercicio2_lista6\exercicio2_lista6\bin\Debug\exercicio2_lista6.exe.config
+C:\Users\1148527\Desktop\exercicio2_lista6\exercicio2_lista6\bin\Debug\exercicio2_lista6.exe
+C:\Users\1148527\Desktop\exercicio2_lista6\exercicio2_lista6\bin\Debug\exercicio2_lista6.pdb
+C:\Users\1148527\Desktop\exercicio2_lista6\exercicio2_lista6\obj\Debug\exercicio2_lista6.csproj.CoreCompileInputs.cache
+C:\Users\1148527\Desktop\exercicio2_lista6\exercicio2_lista6\obj\Debug\exercicio2_lista6.exe
+C:\Users\1148527\Desktop\exercicio2_lista6\exercicio2_lista6\obj\Debug\exercicio2_lista6.pdb

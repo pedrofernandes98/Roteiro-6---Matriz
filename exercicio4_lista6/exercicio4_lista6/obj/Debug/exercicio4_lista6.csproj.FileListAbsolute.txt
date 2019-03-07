@@ -1,0 +1,13 @@
+C:\Users\1148527\Desktop\exercicio4_lista6\exercicio4_lista6\bin\Debug\exercicio4_lista6.exe.config
+C:\Users\1148527\Desktop\exercicio4_lista6\exercicio4_lista6\bin\Debug\exercicio4_lista6.exe
+C:\Users\1148527\Desktop\exercicio4_lista6\exercicio4_lista6\bin\Debug\exercicio4_lista6.pdb
+C:\Users\1148527\Desktop\exercicio4_lista6\exercicio4_lista6\obj\Debug\exercicio4_lista6.csproj.CoreCompileInputs.cache
+C:\Users\1148527\Desktop\exercicio4_lista6\exercicio4_lista6\obj\Debug\exercicio4_lista6.exe
+C:\Users\1148527\Desktop\exercicio4_lista6\exercicio4_lista6\obj\Debug\exercicio4_lista6.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 6 - Matriz\exercicio4_lista6\exercicio4_lista6\bin\Debug\exercicio4_lista6.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 6 - Matriz\exercicio4_lista6\exercicio4_lista6\bin\Debug\exercicio4_lista6.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 6 - Matriz\exercicio4_lista6\exercicio4_lista6\bin\Debug\exercicio4_lista6.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 6 - Matriz\exercicio4_lista6\exercicio4_lista6\obj\Debug\exercicio4_lista6.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 6 - Matriz\exercicio4_lista6\exercicio4_lista6\obj\Debug\exercicio4_lista6.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 6 - Matriz\exercicio4_lista6\exercicio4_lista6\obj\Debug\exercicio4_lista6.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 6 - Matriz\exercicio4_lista6\exercicio4_lista6\obj\Debug\exercicio4_lista6.pdb
